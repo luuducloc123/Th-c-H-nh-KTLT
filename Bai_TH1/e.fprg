@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="e"/>
+        <attribute name="authors" value="HMC"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-11-27 10:18:07 AM"/>
+        <attribute name="created" value="SE1DO0RFU0tUT1AtQlE1UTJCRzsyMDI0LTExLTI3OzEwOjE1OjU0IEFNOzI1MzE="/>
+        <attribute name="edited" value="SE1DO0RFU0tUT1AtQlE1UTJCRzsyMDI0LTExLTI3OzEwOjE4OjA3IEFNOzE7MjY0MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a" type="Real" array="False" size=""/>
+            <declare name="h" type="Real" array="False" size=""/>
+            <declare name="area" type="Integer" array="False" size=""/>
+            <output expression="&quot; nhap a&quot;" newline="True"/>
+            <output expression="&quot; nhap h&quot;" newline="True"/>
+            <input variable="a"/>
+            <input variable="h"/>
+            <assign variable="area" expression="1/2*a*h"/>
+            <output expression="&quot;the area is &quot;&amp; area" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

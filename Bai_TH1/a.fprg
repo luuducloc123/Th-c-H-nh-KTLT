@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="a"/>
+        <attribute name="authors" value="HMC"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-11-27 09:43:05 AM"/>
+        <attribute name="created" value="SE1DO0RFU0tUT1AtQlE1UTJCRzsyMDI0LTExLTI3OzA3OjI1OjI3IEFNOzI1Mzg="/>
+        <attribute name="edited" value="SE1DO0RFU0tUT1AtQlE1UTJCRzsyMDI0LTExLTI3OzA5OjQzOjA1IEFNOzE7MjY0NA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;SV L&#432;u &#272;&#7913;c L&#7897;c&quot;" newline="True"/>
+            <output expression="&quot; msv : 205751030110045&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
