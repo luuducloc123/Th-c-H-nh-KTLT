@@ -1,1 +1,4 @@
 # Th-c-H-nh-KTLT
+BÁO CÁO THỰC HÀNH KTLT
+Họ Tên : LƯU ĐỨC LỘC
+MSV :205751030110045
